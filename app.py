@@ -10,7 +10,7 @@ from better_profanity import profanity
 from fuzzywuzzy import fuzz
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 with open('intents.json') as file:
     intents = json.load(file)
