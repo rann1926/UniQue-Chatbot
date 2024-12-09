@@ -23,7 +23,7 @@ def find_intent_by_response(intents, answer):
             return intent
     return None
 
-for (tag, question, answer) in cursor:
+for (question, answer) in cursor:
     
     existing_intent = find_intent_by_response(intents, answer)
     
@@ -51,6 +51,6 @@ json_data = json.dumps(intents_json, indent=4)
 with open(intents_file_path, 'w') as json_file:
     json_file.write(json_data)
 
-print("Data has been successfully converted to JSON and saved to 'intents.json'.")
+print("Intents are Successfully Updated.")
 
 
