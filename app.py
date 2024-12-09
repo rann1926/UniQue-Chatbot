@@ -8,6 +8,7 @@ from flask_cors import CORS
 from sentence_transformers import SentenceTransformer, util
 from better_profanity import profanity
 from fuzzywuzzy import fuzz
+import subprocess
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
@@ -59,3 +60,15 @@ def chat():
     message = data.get('message', '')
     response = predict(message)
     return jsonify({"response": response})
+
+@app.route('/update-intents', methods=['GET', 'POST'])
+def update_intents():
+    try:
+        # Run the fetch_json.py script
+        result = subprocess.run(['python3', 'fetch_json.py'], capture_output=True, text=True)
+        if result.returncode == 0:
+            return jsonify({"message": "Intents updated successfully!"}), 200
+        else:
+            return jsonify({"error": result.stderr}), 500
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
