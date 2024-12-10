@@ -3,10 +3,10 @@ import json
 import os
 
 db_config = {
-    'host': '153.92.15.3',
-    'user': 'u325640218_unique',
-    'password': 'UniqueChatbot_102619',
-    'database': 'u325640218_unique_chatbot'
+    'host': 'rann1926.mysql.pythonanywhere-services.com',
+    'user': 'rann1926',
+    'password': 'Rannalien_10',
+    'database': 'rann1926$unique_chatbot'
 }
 
 try:
