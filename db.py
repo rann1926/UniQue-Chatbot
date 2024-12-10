@@ -3,7 +3,7 @@ import json
 import os
 
 db_config = {
-    'host': 'srv1153.hstgr.io',
+    'host': '153.92.15.3',
     'user': 'u325640218_unique',
     'password': 'UniqueChatbot_102619',
     'database': 'u325640218_unique_chatbot'
