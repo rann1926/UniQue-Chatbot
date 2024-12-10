@@ -45,7 +45,7 @@ def predict(user_input):
     best_match_score_cosine = cosine_scores[best_match_idx_cosine]
 
     # Combine both fuzzy matching and cosine similarity results
-    if best_match_score_fuzzy > 65 or best_match_score_cosine > 0.65: 
+    if best_match_score_fuzzy > 70 or best_match_score_cosine > 0.70: 
         best_match_idx = best_match_idx_fuzzy if best_match_score_fuzzy > best_match_score_cosine else best_match_idx_cosine
         for intent in intents['intents']:
             if patterns[best_match_idx] in intent['patterns']:

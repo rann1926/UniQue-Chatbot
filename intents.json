@@ -1614,7 +1614,13 @@
                 "Where can I obtain the Student ID for enrollment as a returnee student?",
                 "Where can I get my Student ID for late enrollment?",
                 "Where can I request my Student ID for late enrollment?",
-                "Where can I obtain my Student ID for late enrollment?"
+                "Where can I obtain my Student ID for late enrollment?",
+                "Where can I get the Student ID for canceling enrolled courses?",
+                "Where can I request the Student ID for canceling enrolled courses?",
+                "Where can I obtain the Student ID for canceling enrolled courses?",
+                "Where can I get the Student ID required for the cancellation of enrollment for first-year students?",
+                "Where can I request the Student ID required for the cancellation of enrollment for first-year students?",
+                "Where can I obtain the Student ID required for the cancellation of enrollment for first-year students?"
             ],
             "responses": [
                 "You can obtain the Student ID through the Student Portal or the ICT Department."
@@ -1922,6 +1928,2653 @@
             ],
             "responses": [
                 "For inquiries about the enrollment process for late enrollees, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding enrollment process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for canceling enrolled courses?",
+                "What documents are required for canceling enrolled courses?",
+                "What do I need to cancel enrolled courses?",
+                "What documents should I prepare to cancel enrolled courses?",
+                "What are the required documents for the cancellation of enrolled courses?"
+            ],
+            "responses": [
+                "To cancel enrolled courses at BatStateU ARASOF-Nasugbu, you need to prepare the following:\n\n1. Cancellation of Enrollment Form (1 Original): From the Student Portal / Registration Services Office\n2. Student ID: From the Student Portal / ICT Department\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Cancellation of Enrollment Form?",
+                "Where can I request the Cancellation of Enrollment Form?",
+                "Where can I obtain the Cancellation of Enrollment Form? ",
+                "Where can I get the Cancellation of Enrollment Form for first-year students?",
+                "Where can I request the Cancellation of Enrollment Form for first-year students?",
+                "Where can I obtain the Cancellation of Enrollment Form for first-year students?"
+            ],
+            "responses": [
+                "You can obtain the Cancellation of Enrollment Form through the Student Portal or the Registration Services Office."
+            ]
+        },
+        {
+            "patterns": [
+                "How do I cancel my enrolled courses?",
+                "What are the steps for canceling enrolled courses?",
+                "What is the cancellation process for enrolled courses?",
+                "How do I complete the cancellation of enrolled courses?",
+                "What is the process for the cancellation of enrolled courses?"
+            ],
+            "responses": [
+                "To complete your cancellation of enrolled courses, please follow these steps:\n\n1. Proceed to the Registration Services Office for evaluation\n2. Submit the duly signed form to the Registration Services Office"
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the cancellation process for enrolled courses?",
+                "What is the duration of the cancellation process for enrolled courses?",
+                "How long does the entire cancellation process take for enrolled courses?",
+                "How long will it take to complete all the steps for canceling enrolled courses?",
+                "What is the duration of the entire cancellation process for enrolled courses?"
+            ],
+            "responses": [
+                "The cancellation process of enrolled courses at BatStateU ARASOF-Nasugbu typically takes about 30 minutes to complete."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for the cancellation process of enrolled courses?",
+                "How much does the cancellation process for enrolled courses cost?",
+                "What are the fees for the entire cancellation process of enrolled courses?",
+                "Are there any fees I need to pay during the cancellation of enrolled courses?",
+                "How much is the total cost associated with canceling enrolled courses?"
+            ],
+            "responses": [
+                "There are no fees associated with the cancellation process of enrolled courses. The entire cancellation process is free of charge."
+            ]
+        },
+        {
+            "patterns": [
+                "When is the deadline for canceling enrolled courses?"
+            ],
+            "responses": [
+                "For the deadline of cancellation of enrolled coursse, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about canceling enrolled courses?",
+                "Who should I reach out to for canceling enrolled courses?",
+                "Who do I contact for questions about canceling enrolled courses?",
+                "How can I contact the Registrar's Office for questions about canceling enrolled courses?",
+                "What is the contact information of the Registrar's Office for inquiries about canceling enrolled courses?"
+            ],
+            "responses": [
+                "For inquiries about the cancellation of enrolled courses, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding cancellation process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for the cancellation of enrollment for first-year students?",
+                "What documents are required for the cancellation of enrollment for first-year students?",
+                "What do I need to cancel enrollment as a first-year student?",
+                "What documents should I prepare to cancel enrollment as a first-year student?",
+                "What are the required documents for the cancellation of enrollment for first-year students?"
+            ],
+            "responses": [
+                "To cancel the enrollment of a first-year student at BatStateU ARASOF-Nasugbu, you need to prepare the following:\n\n1. Cancellation of Enrollment Form (1 Original): From the Student Portal / Registration Services Office\n2. Student ID: From the Student Portal / ICT Department\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "How do I cancel my enrollment as a first-year student?",
+                "What are the steps for canceling enrollment as a first-year student?",
+                "What is the cancellation process for enrollment as a first-year student?",
+                "How do I complete the cancellation of enrollment as a first-year student?",
+                "What is the process for the cancellation of enrollment as a first-year student?"
+            ],
+            "responses": [
+                "To complete your cancellation of enrollment as a first-year student, please follow these steps:\n\n1. Proceed to the Registration Services Office for evaluation\n2. Submit the duly signed form to the Registration Services Office\n3. Sign the Outgoing Document logbook"
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the cancellation process for enrollment of a first-year student?",
+                "What is the duration of the cancellation process for enrollment of a first-year student?",
+                "How long does the entire cancellation process take for a first-year student\u2019s enrollment?",
+                "How long will it take to complete all the steps for canceling enrollment as a first-year student?",
+                "What is the duration of the entire cancellation process for enrollment of a first-year student?"
+            ],
+            "responses": [
+                "The cancellation of enrollment for first-year students at BatStateU ARASOF-Nasugbu typically takes about 30 minutes to complete."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for the cancellation process of enrollment as a first-year student?",
+                "How much does the cancellation process for enrollment of a first-year student cost?",
+                "What are the fees for the entire cancellation process of enrollment for a first-year student?",
+                "Are there any fees I need to pay during the cancellation of enrollment as a first-year student?",
+                "How much is the total cost associated with canceling enrollment for a first-year student?"
+            ],
+            "responses": [
+                "There are no fees associated with the cancellation of enrollment for first-year students. The entire cancellation process is free of charge."
+            ]
+        },
+        {
+            "patterns": [
+                "When is the deadline for canceling enrollment for a first-year student?"
+            ],
+            "responses": [
+                "For the deadline of cancellation of enrollment, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about canceling enrollment as a first-year student?",
+                "Who should I reach out to for canceling enrollment as a first-year student?",
+                "Who do I contact for questions about canceling enrollment as a first-year student?",
+                "How can I contact the Registrar's Office for questions about canceling enrollment for a first-year student?",
+                "What is the contact information of the Registrar's Office for inquiries about canceling enrollment as a first-year student?"
+            ],
+            "responses": [
+                "For inquiries about the cancellation of enrollement as a first-year student, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding cancellation process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for adding courses?",
+                "What documents do I need to submit to add courses?",
+                "What requirements do I need to apply for adding courses?",
+                "What documents should I prepare to apply for adding courses?",
+                "What are the required documents for the process of adding courses?"
+            ],
+            "responses": [
+                "To add courses at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Adding/Changing/Dropping of Courses Form: From the Registration Services Office or download from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n2. Student ID: From the Student Portal or ICT Department.\n3. Program of Study (1 Clear Copy): From your respective College or Department.\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for changing courses?",
+                "What documents do I need to submit to change courses?",
+                "What requirements do I need to apply for changing courses?",
+                "What documents should I prepare to apply for changing courses?",
+                "What are the required documents for the process of changing courses?"
+            ],
+            "responses": [
+                "To change courses at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Adding/Changing/Dropping of Courses Form: From the Registration Services Office or download from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n2. Student ID: From the Student Portal or ICT Department.\n3. Program of Study (1 Clear Copy): From your respective College or Department.\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for dropping courses?",
+                "What documents do I need to submit to drop courses?",
+                "What requirements do I need to apply for dropping courses?",
+                "What documents should I prepare to apply for dropping courses?",
+                "What are the required documents for the process of dropping courses?"
+            ],
+            "responses": [
+                "To drop courses at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Adding/Changing/Dropping of Courses Form: From the Registration Services Office or download from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n2. Student ID: From the Student Portal or ICT Department.\n3. Program of Study (1 Clear Copy): From your respective College or Department.\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Adding of Courses Form?",
+                "Where can I request the Adding of Courses Form?",
+                "Where can I obtain the Adding of Courses Form?",
+                "Where can I get the Changing of Courses Form?",
+                "Where can I request the Changing of Courses Form?",
+                "Where can I obtain the Changing of Courses Form?",
+                "Where can I get the Dropping of Courses Form?",
+                "Where can I request the Dropping of Courses Form?",
+                "Where can I obtain the Dropping of Courses Form?"
+            ],
+            "responses": [
+                "You can obtain the Adding/Changing/Dropping of Courses Form from the Registration Services Office or download it from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard."
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Program of Study for adding a course?",
+                "Where can I request the Program of Study for adding a course?",
+                "Where can I obtain the Program of Study for adding a course?",
+                "Where can I get the Program of Study for changing a course?",
+                "Where can I request the Program of Study for changing a course?",
+                "Where can I obtain the Program of Study for changing a course?",
+                "Where can I get the Program of Study for dropping a course?",
+                "Where can I request the Program of Study for dropping a course?",
+                "Where can I obtain the Program of Study for dropping a course?",
+                "Where can I get the Program of Study for course overloading?",
+                "Where can I request the Program of Study for course overloading?",
+                "Where can I obtain the Program of Study for course overloading?"
+            ],
+            "responses": [
+                "You can obtain the Program of Study from your respective College or Department."
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get my Student ID for the process of adding a course?",
+                "Where can I request my Student ID for the process of adding a course?",
+                "Where can I obtain my Student ID for the process of adding a course?",
+                "Where can I get my Student ID for the process of changing a course?",
+                "Where can I request my Student ID for the process of changing a course?",
+                "Where can I obtain my Student ID for the process of changing a course?",
+                "Where can I get my Student ID for the process of dropping a course?",
+                "Where can I request my Student ID for the process of dropping a course?",
+                "Where can I obtain my Student ID for the process of dropping a course?"
+            ],
+            "responses": [
+                "You can obtain your Student ID at the Student Portal or ICT Department"
+            ]
+        },
+        {
+            "patterns": [
+                "How do I add courses?",
+                "What are the steps for adding courses?",
+                "What is the adding courses process?",
+                "How do I complete the process of adding courses?",
+                "What is the process for adding courses?"
+            ],
+            "responses": [
+                "To complete the process of adding courses at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Proceed to the respective college for preliminary evaluation and signature of the accomplished Adding/ Changing/Dropping of Courses form\n2. Submit to the Registration Services Office the Adding, Changing and Dropping of Courses form approved by the College's Dean/Associate Dean/Program Chairperson\n3. Submit the Adding, Changing/ Dropping of Courses form to the Assessment Office for reassessment of fees\n4. Submit the signed form from the Accounting Office to the Registration Services Office"
+            ]
+        },
+        {
+            "patterns": [
+                "How do I change courses?",
+                "What are the steps for changing courses?",
+                "What is the changing courses process?",
+                "How do I complete the process of changing courses?",
+                "What is the process for changing courses?"
+            ],
+            "responses": [
+                "To complete the process of changing courses at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Proceed to the respective college for preliminary evaluation and signature of the accomplished Adding/ Changing/Dropping of Courses form\n2. Submit to the Registration Services Office the Adding, Changing and Dropping of Courses form approved by the College's Dean/Associate Dean/Program Chairperson\n3. Submit the Adding, Changing/ Dropping of Courses form to the Assessment Office for reassessment of fees\n4. Submit the signed form from the Accounting Office to the Registration Services Office"
+            ]
+        },
+        {
+            "patterns": [
+                "How do I drop courses?",
+                "What are the steps for dropping courses?",
+                "What is the dropping courses process?",
+                "How do I complete the process of dropping courses?",
+                "What is the process for dropping courses?"
+            ],
+            "responses": [
+                "To complete the process of dropping courses at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Proceed to the respective college for preliminary evaluation and signature of the accomplished Adding/ Changing/Dropping of Courses form\n2. Submit to the Registration Services Office the Adding, Changing and Dropping of Courses form approved by the College's Dean/Associate Dean/Program Chairperson\n3. Submit the Adding, Changing/ Dropping of Courses form to the Assessment Office for reassessment of fees\n4. Submit the signed form from the Accounting Office to the Registration Services Office"
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the process for adding courses?",
+                "What is the duration of the process for adding courses?",
+                "How long does the entire process take for adding courses?",
+                "How long will it take to complete all the steps for adding courses?",
+                "What is the duration of the entire process for adding courses?"
+            ],
+            "responses": [
+                "The process for adding courses typically takes about 35 minutes to complete."
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the process for changing courses?",
+                "What is the duration of the process for changing courses?",
+                "How long does the entire process take for changing courses?",
+                "How long will it take to complete all the steps for changing courses?",
+                "What is the duration of the entire process for changing courses?"
+            ],
+            "responses": [
+                "The process for changing courses typically takes about 35 minutes to complete."
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the process for dropping courses?",
+                "What is the duration of the process for dropping courses?",
+                "How long does the entire process take for dropping courses?",
+                "How long will it take to complete all the steps for dropping courses?",
+                "What is the duration of the entire process for dropping courses?"
+            ],
+            "responses": [
+                "The process for dropping courses typically takes about 35 minutes to complete."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for the process of adding courses?",
+                "How much does the process of adding courses cost?",
+                "What are the fees for the entire process of adding courses?",
+                "Are there any fees I need to pay during the process of adding courses?",
+                "How much is the total cost associated with adding courses?"
+            ],
+            "responses": [
+                "There are no fees associated with the process of adding courses. The entire process is free of charge."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for the process of changing courses?",
+                "How much does the process of changing courses cost?",
+                "What are the fees for the entire process of changing courses?",
+                "Are there any fees I need to pay during the process of changing courses?",
+                "How much is the total cost associated with changing courses?"
+            ],
+            "responses": [
+                "There are no fees associated with the process of changing courses. The entire process is free of charge."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for the process of dropping courses?",
+                "How much does the process of dropping courses cost?",
+                "What are the fees for the entire process of dropping courses?",
+                "Are there any fees I need to pay during the process of dropping courses?",
+                "How much is the total cost associated with dropping courses?"
+            ],
+            "responses": [
+                "There are no fees associated with the process of dropping courses. The entire process is free of charge."
+            ]
+        },
+        {
+            "patterns": [
+                "When can I submit my request for adding courses?",
+                "When does the period for adding courses begin and end?"
+            ],
+            "responses": [
+                "For the period for adding courses, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "When is the deadline for adding courses?"
+            ],
+            "responses": [
+                "For the deadline for adding courses, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "When can I submit my request for changing courses?",
+                "When does the period for changing courses begin and end?",
+                "When is the deadline for changing courses?"
+            ],
+            "responses": [
+                "For the period for changing courses, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "When can I submit my request for dropping courses?",
+                "When does the period for dropping courses begin and end?",
+                "When is the deadline for dropping courses?"
+            ],
+            "responses": [
+                "For the period for dropping courses, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about the process of adding courses?",
+                "Who should I reach out to about adding courses?",
+                "Who do I reach out to for questions about adding courses?",
+                "How can I contact the Registrar's Office for questions regarding adding courses?",
+                "What is the contact information of the Registrar's Office for inquiries related to adding courses?",
+                "Who can I contact for inquiries about the process of changing courses?",
+                "Who should I reach out to about changing courses?",
+                "Who do I reach out to for questions about changing courses?",
+                "How can I contact the Registrar's Office for questions regarding changing courses?",
+                "What is the contact information of the Registrar's Office for inquiries related to changing courses?",
+                "Who can I contact for inquiries about the process of dropping courses?",
+                "Who should I reach out to about dropping courses?",
+                "Who do I reach out to for questions about dropping courses?",
+                "How can I contact the Registrar's Office for questions regarding dropping courses?",
+                "What is the contact information of the Registrar's Office for inquiries related to dropping courses?"
+            ],
+            "responses": [
+                "For inquiries about the process of adding, changing, or dropping courses, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding the process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for requesting course overloading?",
+                "What documents do I need to submit for requesting course overloading?",
+                "What requirements do I need to apply for course overloading?",
+                "What documents should I prepare to apply for course overloading?",
+                "What are the required documents for the course overloading process?"
+            ],
+            "responses": [
+                "To request course overloading at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Accomplished Request for Course/s Overload Form: From the Registration Services Office or downloadable from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n2. Student ID: From the Student Portal or ICT Department.\n3. Program of Study (1 Clear Copy): From your respective College or Department.\n4. Program Curriculum (1 Original): From your respective College or Department.\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Request for Course/s Overload Form for course overloading?",
+                "Where can I request the Request for Course/s Overload Form for course overloading?",
+                "Where can I obtain the Request for Course/s Overload Form for course overloading?"
+            ],
+            "responses": [
+                "You can obtain the Request for Course/s Overload Form from the Registration Services Office or download it from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard."
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get my Student ID for the course overloading process?",
+                "Where can I request my Student ID for the course overloading process?",
+                "Where can I obtain my Student ID for the course overloading process?",
+                "Where can I get my Student ID for the Leave of Absence application?",
+                "Where can I request my Student ID for the Leave of Absence application?",
+                "Where can I obtain my Student ID for the Leave of Absence application?",
+                "Where can I get my Student ID for the request of Report of Grades?",
+                "Where can I request my Student ID for the request of Report of Grades?",
+                "Where can I obtain my Student ID for the request of Report of Grades?"
+            ],
+            "responses": [
+                "You can obtain your Student ID from the Student Portal or the ICT Department."
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Program Curriculum for course overloading?",
+                "Where can I request the Program Curriculum for course overloading?",
+                "Where can I obtain the Program Curriculum for course overloading?"
+            ],
+            "responses": [
+                "You can obtain the Program Curriculum from your respective College or Department."
+            ]
+        },
+        {
+            "patterns": [
+                "How do I apply for course overloading?",
+                "What are the steps for requesting course overloading?",
+                "What is the course overloading process?",
+                "How do I complete my request for course overloading?",
+                "What is the process for requesting course overloading?"
+            ],
+            "responses": [
+                "To complete the process of course overloading at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Proceed to the respective college for preliminary evaluation and approval of the accomplished Request for Course/s Overloading form\n2. Submit to the Registration Services Office the Adding, Changing and Dropping of Courses form approved by the College's Department/Program Chair and the Dean\n3. Proceed to the Assessment Office for reassessment of fees\n4. Submit the signed form from the Accounting Office to the Registration Services Office"
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the course overloading process?",
+                "What is the duration of the course overloading process?",
+                "How long does the entire course overloading process take?",
+                "How long will it take to complete all the steps for requesting course overloading?",
+                "What is the duration of the entire course overloading process?"
+            ],
+            "responses": [
+                "The process for course overloading typically takes about 25 minutes to complete."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for the course overloading process?",
+                "How much does the course overloading process cost?",
+                "How much are the fees for the entire course overloading process?",
+                "Are there any fees I need to pay during the course overloading process?",
+                "How much is the total cost associated with course overloading?"
+            ],
+            "responses": [
+                "There are no fees associated with the course overloading process. The entire process is free of charge."
+            ]
+        },
+        {
+            "patterns": [
+                "When can I submit my requests for course overloading?",
+                "When does the period for course overloading begin and end?"
+            ],
+            "responses": [
+                "For the period for course overloading, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "When is the deadline for course overloading?"
+            ],
+            "responses": [
+                "For the deadline for course overloading, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about the process of course overloading?",
+                "Who should I reach out to about course overloading?",
+                "Who do I reach out to for questions about course overloading?",
+                "How can I contact the Registrar's Office for questions regarding course overloading?",
+                "What is the contact information of the Registrar's Office for inquiries related to course overloading?"
+            ],
+            "responses": [
+                "For inquiries about the process of course overloading, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding the process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for applying for Leave of Absence (LOA)?",
+                "What documents do I need to submit for Leave of Absence (LOA) application?",
+                "What requirements do I need to apply for Leave of Absence (LOA)?",
+                "What documents should I prepare to apply for Leave of Absence (LOA)?",
+                "What are the required documents for the process of applying for Leave of Absence (LOA)?"
+            ],
+            "responses": [
+                "To apply for Leave of Absence (LOA) at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Leave of Absence Form (3 Original): From the Registration Services Office or downloadable from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n2. Photocopy of Parent/guardian\u2019s any valid ID with three (3) specimen signature (1 Copy)\n3. Student ID: From the Student Portal or ICT Department.\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Leave of Absence Form for my application?",
+                "Where can I request the Leave of Absence Form for my application?",
+                "Where can I obtain the Leave of Absence Form for my application?"
+            ],
+            "responses": [
+                "You can obtain the Leave of Absence Form from the Registration Services Office or download it from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard."
+            ]
+        },
+        {
+            "patterns": [
+                "How do I apply for a Leave of Absence?",
+                "What are the steps to apply for a Leave of Absence?",
+                "What is the Leave of Absence application process?",
+                "How do I complete my application for a Leave of Absence?",
+                "What is the process to apply for a Leave of Absence?"
+            ],
+            "responses": [
+                "To complete the process of applying for Leave of Absence at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Secure a Leave of Absence Form (LOA), download the form from Student Portal or request thru the official email address of the Registration Services Office\n - Email: registrar.nasugbu@g.batstate-u.edu.ph\n2. Proceed to the respective college for preliminary evaluation and signature of the accomplished Leave of Absence form with attached parent\u2019s consent photocopy of parent\u2019s valid ID\n3. Submit the signed form to the Office of the Student Discipline\n4. Submit the signed form to the Registration Services Office\n5. Receive the approved Leave of Absence form"
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the process for applying for Leave of Absence application?",
+                "What is the duration of the Leave of Absence application process?",
+                "How long does the entire process take to apply for Leave of Absence?",
+                "How long will it take to complete all the steps for Leave of Absence application?",
+                "What is the duration of the entire process for applying for Leave of Absence application?"
+            ],
+            "responses": [
+                "The process for applying for Leave of Absence typically takes about 35 minutes to complete."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for the Leave of Absence application process?",
+                "How much does the Leave of Absence application process cost?",
+                "How much are the fees for the entire Leave of Absence application process?",
+                "Are there any fees I need to pay during the Leave of Absence application process?",
+                "How much is the total cost associated with applying for Leave of Absence?"
+            ],
+            "responses": [
+                "There are no fees associated with the Leave of Absence application process. The entire process is free of charge."
+            ]
+        },
+        {
+            "patterns": [
+                "When can I submit my application for Leave of Absence?",
+                "When does the period for Leave of Absence application begin and end?"
+            ],
+            "responses": [
+                "For the period for submitting application for Leave of Absence, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "When is the deadline for submitting Leave of Absence application?"
+            ],
+            "responses": [
+                "For the deadline for submitting Leave of Absence application, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about the process of Leave of Absence application?",
+                "Who should I reach out to about the process of Leave of Absence application?",
+                "Who do I reach out to for questions about the process of Leave of Absence application?",
+                "How can I contact the Registrar's Office for questions regarding the process of Leave of Absence application?",
+                "What is the contact information of the Registrar's Office for inquiries related to the process of Leave of Absence application?"
+            ],
+            "responses": [
+                "For inquiries about the process of Leave of Absence application, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding the process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for applying for graduation?",
+                "What documents do I need to submit for a graduation application?",
+                "What requirements do I need to apply for graduation?",
+                "What documents should I prepare to apply for graduation?",
+                "What are the required documents for the process of applying for graduation?"
+            ],
+            "responses": [
+                "To apply for graduation at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Application for Graduation Form (1 Original): From the Registration Services Office or downloadable from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n2. Completion of Academic Requirements\n3. Certification of Submission of Hard Bound (1 Original): From the Library Services Office"
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Graduation Form for my application?",
+                "Where can I request the Graduation Form for my application?",
+                "Where can I obatin the Graduation Form for my application?"
+            ],
+            "responses": [
+                "You can obtain the Graduation Form from the Registration Services Office or download it from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard."
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Certification of Submission of Hard Bound for the graduation application?",
+                "Where can I request the Certification of Submission of Hard Bound for the graduation application?",
+                "Where can I obtain the Certification of Submission of Hard Bound for the graduation application?"
+            ],
+            "responses": [
+                "You can obtain the Certification of Submission of Hard Bound from the Library Services Office."
+            ]
+        },
+        {
+            "patterns": [
+                "How do I apply for graduation?",
+                "What are the steps to apply for graduation?",
+                "What is the graduation application process?",
+                "How do I complete my application for graduation?",
+                "What is the process to apply for graduation?"
+            ],
+            "responses": [
+                "To complete the process of applying for Graduation at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Secure an Application for Graduation form, download the form from Student Portal or request thru the official email address of the Registration Services Office\n - Email: registrar.nasugbu@g.batstate-u.edu.ph\n2. Submit the accomplished Application for Graduation form to the concerned college\n3. Submit the deficiencies"
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the process for applying for graduation?",
+                "What is the duration of the graduation application process?",
+                "How long does the entire process take to apply for graduation?",
+                "How long will it take to complete all the steps for the graduation application?",
+                "What is the duration of the entire process for applying for graduation?"
+            ],
+            "responses": [
+                "The process for applying for Graduation typically takes about 4 months, 3 days, 10 minutesto complete."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for the graduation application process?",
+                "How much does the graduation application process cost?",
+                "How much are the fees for the entire graduation application process?",
+                "Are there any fees I need to pay during the graduation application process?",
+                "How much is the total cost associated with applying for graduation?"
+            ],
+            "responses": [
+                "There are no fees associated with the Graduation application process. The entire process is free of charge."
+            ]
+        },
+        {
+            "patterns": [
+                "When can I submit my application for graduation?",
+                "When does the period for graduation application begin and end?"
+            ],
+            "responses": [
+                "For the period for submitting application for graduation, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "When is the deadline for submitting my graduation application?"
+            ],
+            "responses": [
+                "For the deadline for submitting graduation application, please refer to the official announcements from the Registrar's Office or contact them directly for the most up-to-date information. You can reach the Registrar's Office at:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about the graduation application process?",
+                "Who should I reach out to about the graduation application process?",
+                "Who do I reach out to for questions about the graduation application process?",
+                "How can I contact the Registrar's Office for questions regarding the graduation application process?",
+                "What is the contact information of the Registrar's Office for inquiries related to the graduation application process?"
+            ],
+            "responses": [
+                "For inquiries about the process of graduation application, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding the process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for requesting a Certificate of Course Description?",
+                "What documents do I need to submit for the issuance of a Certificate of Course Description?",
+                "What requirements do I need to request a Certificate of Course Description?",
+                "What documents should I prepare to request a Certificate of Course Description?",
+                "What are the required documents for the process of requesting a Certificate of Course Description?"
+            ],
+            "responses": [
+                "To request a Certificate of Course Description at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Online Clearance: From the Registration Portal or Student Clearance System.\n2. Request and Claim Slip (1 Original): From the Registration Services Office or downloadable from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n3. One (1) Valid Identification Card (ID) - PRC ID, Driver\u2019s License, UMID, Passport\n4. Official Receipt of Payment: From the Cashiering Office\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Online Clearance for my request of Certificate of Course Description?",
+                "Where can I request the Online Clearance for my request of Certificate of Course Description?",
+                "Where can I obtain the Online Clearance for my request of Certificate of Course Description?",
+                "Where can I get the Online Clearance for my request of Form 137?",
+                "Where can I request the Online Clearance for my request of Form 137?",
+                "Where can I obtain the Online Clearance for my request of Form 137?",
+                "Where can I get the Online Clearance for my request of Report of Grades?",
+                "Where can I request the Online Clearance for my request of Report of Grades?",
+                "Where can I obtain the Online Clearance for my request of Report of Grades?",
+                "Where can I get the Online Clearance for my request of a Second Copy of Diploma?",
+                "Where can I request the Online Clearance for my request of a Second Copy of Diploma?",
+                "Where can I obtain the Online Clearance for my request of a Second Copy of Diploma?",
+                "Where can I get the Online Clearance for my request of Transcript of Records?",
+                "Where can I request the Online Clearance for my request of Transcript of Records?",
+                "Where can I obtain the Online Clearance for my request of Transcript of Records?",
+                "Where can I get the Online Clearance for my request of Transfer Credentials?",
+                "Where can I request the Online Clearance for my request of Transfer Credentials?",
+                "Where can I obtain the Online Clearance for my request of Transfer Credentials?"
+            ],
+            "responses": [
+                "You can obtain the Online Clearance from the Registration Portal/Student Clearance System."
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Request and Claim Slip for my request of Certificate of Course Description?",
+                "Where can I request the Request and Claim Slip for my request of Certificate of Course Description?",
+                "Where can I obtain the Request and Claim Slip for my request of Certificate of Course Description?",
+                "Where can I get the Request and Claim Slip for my request of Form 137?",
+                "Where can I request the Request and Claim Slip for my request of Form 137?",
+                "Where can I obtain the Request and Claim Slip for my request of Form 137?",
+                "Where can I get the Request and Claim Slip for the request of Report of Grades?",
+                "Where can I request the Request and Claim Slip for the request of Report of Grades?",
+                "Where can I obtain the Request and Claim Slip for the request of Report of Grades?",
+                "Where can I get the Request and Claim Slip for my request of a Second Copy of Diploma?",
+                "Where can I request the Request and Claim Slip for my request of a Second Copy of Diploma?",
+                "Where can I obtain the Request and Claim Slip for my request of a Second Copy of Diploma?",
+                "Where can I get the Request and Claim Slip for my request of Transcript of Records?",
+                "Where can I request the Request and Claim Slip for my request of Transcript of Records?",
+                "Where can I obtain the Request and Claim Slip for my request of Transcript of Records?",
+                "Where can I get the Request and Claim Slip for my request of Transfer Credentials?",
+                "Where can I request the Request and Claim Slip for my request of Transfer Credentials?",
+                "Where can I obtain the Request and Claim Slip for my request of Transfer Credentials?"
+            ],
+            "responses": [
+                "You can obtain the Request and Claim Slip from the Registration Services Office or download it from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard."
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Official Receipt of Payment for my request of Certificate of Course Description?",
+                "Where can I request the Official Receipt of Payment for my request of Certificate of Course Description?",
+                "Where can I obtain the Official Receipt of Payment for my request of Certificate of Course Description?",
+                "Where can I get the Official Receipt of Payment for my request of Form 137?",
+                "Where can I request the Official Receipt of Payment for my request of Form 137?",
+                "Where can I obtain the Official Receipt of Payment for my request of Form 137?",
+                "Where can I get the Official Receipt of Payment for my request of a Second Copy of Diploma?",
+                "Where can I request the Official Receipt of Payment for my request of a Second Copy of Diploma?",
+                "Where can I obtain the Official Receipt of Payment for my request of a Second Copy of Diploma?",
+                "Where can I get the Official Receipt of Payment for my request of Transcript of Records?",
+                "Where can I request the Official Receipt of Payment for my request of Transcript of Records?",
+                "Where can I obtain the Official Receipt of Payment for my request of Transcript of Records?",
+                "Where can I get the Official Receipt of Payment for my request of Transfer Credentials?",
+                "Where can I request the Official Receipt of Payment for my request of Transfer Credentials?",
+                "Where can I obtain the Official Receipt of Payment for my request of Transfer Credentials?"
+            ],
+            "responses": [
+                "You can obtain the Official Receipt of Payment from the Cashiering Office."
+            ]
+        },
+        {
+            "patterns": [
+                "How do I request Certificate of Course Description?",
+                "What are the steps to request Certificate of Course Description?",
+                "What is the Certificate of Course Description issuance process?",
+                "How do I complete my request for Certificate of Course Description?",
+                "What is the process to request Certificate of Course Description?"
+            ],
+            "responses": [
+                "To complete the process of requesting Certificate of Course Description at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Request the document \n - Thru Online Document Request (ODR)- Access the Online Document Request System at https://dione.batstateu.edu.ph/odr/#/ and accomplish the steps for document requisition\n- Thru email \u2013 Send a message via email at registrar.nasugbu@g.batstate-u.edu.ph\n- Thru Face-to-Face Transaction - Secure Request and Claim Slip Form at the Registration Services Office\n2. Pay at the Cashiering Office/LinkBiz Portal\n3. Upload via ODR or Present the official receipt at the Registration Services Office\n4. Present the notice/ Claim Slip to claim the requested document\n5. Check and receive the requested document and sign in the Logbook "
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the process to request Certificate of Course Description?",
+                "What is the duration of the process to request Certificate of Course Description?",
+                "How long does the entire process take to request Certificate of Course Description?",
+                "How long will it take to complete all the steps to request Certificate of Course Description?",
+                "What is the duration of the entire process to request Certificate of Course Description?"
+            ],
+            "responses": [
+                "The process for requesting Certificate of Course Description typically takes about 7 days."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for requesting a Certificate of Course Description?",
+                "How much does the issuance of a Certificate of Course Description process cost?",
+                "How much are the fees for the entire issuance of a Certificate of Course Description process?",
+                "Are there any fees I need to pay during the issuance of a Certificate of Course Description process?",
+                "How much is the total cost associated with requesting a Certificate of Course Description?"
+            ],
+            "responses": [
+                "Here are the fees for requesting Certificate of Course Description at BatStateU ARASOF-Nasugbu:\n\n- Certificate - Php 30/page"
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about the issuance of a Certificate of Course Description process?",
+                "Who should I reach out to for questions about the issuance of a Certificate of Course Description process?",
+                "Who do I reach out to for questions regarding the issuance of a Certificate of Course Description?",
+                "How can I contact the Registrar's Office for questions regarding the issuance of a Certificate of Course Description?",
+                "What is the contact information of the Registrar's Office for inquiries related to the issuance of a Certificate of Course Description?"
+            ],
+            "responses": [
+                "For inquiries about the issuance of Certificate of Course Description, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding the process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for requesting Form 137?",
+                "What documents do I need to submit for the issuance of Form 137?",
+                "What requirements do I need to request Form 137?",
+                "What documents should I prepare to request Form 137?",
+                "What are the required documents for the process of requesting Form 137?"
+            ],
+            "responses": [
+                "To request Form 137 at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Online Clearance: From the Registration Portal or Student Clearance System.\n2. Request and Claim Slip (1 Original): From the Registration Services Office or downloadable from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n3. One (1) Valid Identification Card (ID) - PRC ID, Driver\u2019s License, UMID, Passport\n4. Official Receipt of Payment: From the Cashiering Office\n5. Approved Exit Interview Form (1 clear copy): From Concerned College/Guidance and Counseling Office\n6. Letter of No Objection, if Transferred Credentials (Copy For) (1 Original): From Receiving School\n7. Signed lower portion of the Certificate of Transfer Credentials (1 Original): From Receiving School\n\nIn case of lost request:\n- Request Letter from the school for lost issued Certificate of Transfer Credential. If applicable (1 Original): From Receiving School\n- Affidavit of loss including a statement that the document is not yet forwarded to another school (1 Original): From Notary Public\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "How do I request Form 137?",
+                "What are the steps to request Form 137?",
+                "What is the Form 137  issuance process?",
+                "How do I complete my request for Form 137?",
+                "What is the process to request Form 137?"
+            ],
+            "responses": [
+                "To complete the process of requesting Form 137 at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Request the document \n - Thru Online Document Request (ODR)- Access the Online Document Request System at https://dione.batstateu.edu.ph/odr/#/ and accomplish the steps for document requisition\n- Thru email \u2013 Send a message via email at registrar.nasugbu@g.batstate-u.edu.ph\n - Thru Face-to-Face Transaction - Secure Request and Claim Slip Form at the Registration Services Office\n2. Pay at the Cashiering Office/LinkBiz Portal\n3. Upload via ODR or Present the official receipt at the Registration Services Office\n4. Present the notice/ Claim Slip to claim the requested document\n5. Check and receive the requested document and sign in the Logbook "
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the process to request Form 137?",
+                "What is the duration of the process to request Form 137?",
+                "How long does the entire process take to request Form 137?",
+                "How long will it take to complete all the steps to request Form 137?",
+                "What is the duration of the entire process to request Form 137?"
+            ],
+            "responses": [
+                "The process for requesting Form 137 typically takes about 2 days."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for requesting a Form 137?",
+                "How much does the issuance of a Form 137 process cost?",
+                "How much are the fees for the entire issuance of a Form 137 process?",
+                "Are there any fees I need to pay during the issuance of a Form 137 process?",
+                "How much is the total cost associated with requesting a Form 137?"
+            ],
+            "responses": [
+                "Here are the fees for requesting Form 137 at BatStateU ARASOF-Nasugbu:\n\n- Form 137 - Php 100"
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about the issuance of Form 137 process?",
+                "Who should I reach out to for questions about the issuance of Form 137 process?",
+                "Who do I reach out to for questions regarding the issuance of Form 137?",
+                "How can I contact the Registrar's Office for questions regarding the issuance of Form 137?",
+                "What is the contact information of the Registrar's Office for inquiries related to the issuance of Form 137?"
+            ],
+            "responses": [
+                "For inquiries about the issuance of Form 137, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding the process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for requesting Report of Grades?",
+                "What documents do I need to submit for the issuance of Report of Grades?",
+                "What requirements do I need to request Report of Grades?",
+                "What documents should I prepare to request Report of Grades?",
+                "What are the required documents for the process of requesting Report of Grades?"
+            ],
+            "responses": [
+                "To request the Issuance of Report of Grades at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Online Clearance: From the Registration Portal or Student Clearance System.\n2. Request and Claim Slip (1 Original): From the Registration Services Office or downloadable from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n3. Student ID: From the Student Portal or ICT Department.\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "How do I request Report of Grades?",
+                "What are the steps to request Report of Grades?",
+                "What is the Report of Grades issuance process?",
+                "How do I complete my request for Report of Grades?",
+                "What is the process to request Report of Grades?"
+            ],
+            "responses": [
+                "To complete the process of requesting the Report of Grades at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. State the request for Report of Grades and present Student ID/required documents for authorized representatives\n2. Check and receive the Report of Grades"
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the process to request Report of Grades?",
+                "What is the duration of the process to request Report of Grades?",
+                "How long does the entire process take to request Report of Grades?",
+                "How long will it take to complete all the steps to request Report of Grades?",
+                "What is the duration of the entire process to request Report of Grades?"
+            ],
+            "responses": [
+                "The process for requesting the Report of Grades typically takes about 5 minutes to complete"
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for requesting Report of Grades?",
+                "How much does the issuance of Report of Grades process cost?",
+                "How much are the fees for the entire issuance of Report of Grades process?",
+                "Are there any fees I need to pay during the issuance of Report of Grades process?",
+                "How much is the total cost associated with requesting Report of Grades?"
+            ],
+            "responses": [
+                "There are no fees associated with requesting of the Report of Grades. The entire process is free of charge."
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about the issuance of the Report of Grades process?",
+                "Who should I reach out to for questions about the issuance of the Report of Grades process?",
+                "Who do I reach out to for questions regarding the issuance of the Report of Grades?",
+                "How can I contact the Registrar's Office for questions regarding the issuance of the Report of Grades?",
+                "What is the contact information of the Registrar's Office for inquiries related to the issuance of the Report of Grades?"
+            ],
+            "responses": [
+                "For inquiries about the issuance of the Report of Grades, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding the process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for requesting a Second Copy of Diploma?",
+                "What documents do I need to submit for the issuance of a Second Copy of Diploma?",
+                "What requirements do I need to request a Second Copy of Diploma?",
+                "What documents should I prepare to request a Second Copy of Diploma?",
+                "What are the required documents for the process of requesting a Second Copy of Diploma?"
+            ],
+            "responses": [
+                "To request a Second Copy of Diploma at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Online Clearance: From the Registration Portal or Student Clearance System.\n2. Request and Claim Slip (1 Original): From the Registration Services Office or downloadable from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n3. One (1) Valid Identification Card (ID) - PRC ID, Driver\u2019s License, UMID, Passport\n4. Official Receipt of Payment: From the Cashiering Office\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "How do I request a Second Copy of Diploma?",
+                "What are the steps to request a Second Copy of Diploma?",
+                "What is the Second Copy of Diploma issuance process?",
+                "How do I complete my request for a Second Copy of Diploma?",
+                "What is the process to request a Second Copy of Diploma?"
+            ],
+            "responses": [
+                "To complete the process of requesting a Second Copy of Diploma at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Request the document \n - Thru Online Document Request (ODR)- Access the Online Document Request System at https://dione.batstateu.edu.ph/odr/#/ and accomplish the steps for document requisition\n- Thru email \u2013 Send a message via email at registrar.nasugbu@g.batstate-u.edu.ph\n- Thru Face-to-Face Transaction - Secure Request and Claim Slip Form at the Registration Services Office\n2. Pay at the Cashiering Office/LinkBiz Portal\n3. Upload via ODR or Present the official receipt at the Registration Services Office\n4. Present the notice/ Claim Slip to claim the requested document\n5. Check and receive the requested document and sign in the Logbook "
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the process to request a Second Copy of Diploma?",
+                "What is the duration of the process to request a Second Copy of Diploma?",
+                "How long does the entire process take to request a Second Copy of Diploma?",
+                "How long will it take to complete all the steps to request a Second Copy of Diploma?",
+                "What is the duration of the entire process to request a Second Copy of Diploma?"
+            ],
+            "responses": [
+                "The process for requesting a Second Copy of Diploma typically takes about 4 days to complete."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for requesting a Second Copy of Diploma?",
+                "How much does the issuance of a Second Copy of Diploma process cost?",
+                "How much are the fees for the entire issuance of a Second Copy of Diploma process?",
+                "Are there any fees I need to pay during the issuance of a Second Copy of Diploma process?",
+                "How much is the total cost associated with requesting a Second Copy of Diploma?"
+            ],
+            "responses": [
+                "Here are the fees for requesting a Second Copy of Diploma at BatStateU ARASOF-Nasugbu:\n\n- Diploma - Php 400/copy"
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about the issuance of a Second Copy of Diploma process?",
+                "Who should I reach out to for questions about the issuance of a Second Copy of Diploma process?",
+                "Who do I reach out to for questions regarding the issuance of a Second Copy of Diploma?",
+                "How can I contact the Registrar's Office for questions regarding the issuance of a Second Copy of Diploma?",
+                "What is the contact information of the Registrar's Office for inquiries related to the issuance of a Second Copy of Diploma?",
+                "Who should I reach out to for questions about the issuance of Transcript of Records process?",
+                "Who do I reach out to for questions regarding the issuance of Transcript of Records?",
+                "How can I contact the Registrar's Office for questions regarding the issuance of Transcript of Records?",
+                "What is the contact information of the Registrar's Office for inquiries related to the issuance of Transcript of Records?"
+            ],
+            "responses": [
+                "For inquiries about the issuance of a Second Copy of Diploma, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding the process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for requesting a Transcript of Records?",
+                "What documents do I need to submit for the issuance of a Transcript of Records?",
+                "What requirements do I need to request a Transcript of Records?",
+                "What documents should I prepare to request a Transcript of Records?",
+                "What are the required documents for the process of requesting a Transcript of Records?"
+            ],
+            "responses": [
+                "To request a Transcript of Records at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Online Clearance: From the Registration Portal or Student Clearance System.\n2. Request and Claim Slip (1 Original): From the Registration Services Office or downloadable from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n3. One (1) Valid Identification Card (ID) - PRC ID, Driver\u2019s License, UMID, Passport\n4. Official Receipt of Payment (1 Original/ e-receipt) : From the Cashiering Office\n5. Letter of No Objection, if Transferred Credentials (Copy For) (1 Original): From Receiving School\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Letter of No Objection for my request of Transcript of Records?",
+                "Where can I request the Letter of No Objection for my request of Transcript of Records?",
+                "Where can I obtain the Letter of No Objection for my request of Transcript of Records?"
+            ],
+            "responses": [
+                "You can obtain the Letter of No Objection from the Receiving School."
+            ]
+        },
+        {
+            "patterns": [
+                "How do I request a Transcript of Records?",
+                "What are the steps to request a Transcript of Records?",
+                "What is the Transcript of Records issuance process?",
+                "How do I complete my request for a Transcript of Records?",
+                "What is the process to request a Transcript of Records?"
+            ],
+            "responses": [
+                "To complete the process of requesting a Transcript of Record at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Request the document \n - Thru Online Document Request (ODR)- Access the Online Document Request System at https://dione.batstateu.edu.ph/odr/#/ and accomplish the steps for document requisition\n- Thru email \u2013 Send a message via email at registrar.nasugbu@g.batstate-u.edu.ph\n- Thru Face-to-Face Transaction - Secure Request and Claim Slip Form at the Registration Services Office\n2. Pay at the Cashiering Office/LinkBiz Portal\n3. Upload via ODR or Present the official receipt at the Registration Services Office\n4. Present the notice/ Claim Slip to claim the requested document\n5. Check and receive the requested document and sign in the Logbook "
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the process to request a Transcript of Records?",
+                "What is the duration of the process to request a Transcript of Records?",
+                "How long does the entire process take to request a Transcript of Records?",
+                "How long will it take to complete all the steps to request a Transcript of Records?",
+                "What is the duration of the entire process to request a Transcript of Records?"
+            ],
+            "responses": [
+                "The process for requesting a Transcript of Records typically takes about 3 days for Auto TOR and 7 days for Manual TOR."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for requesting a Transcript of Records?",
+                "How much does the issuance of a Transcript of Records process cost?",
+                "How much are the fees for the entire issuance of a Transcript of Records process?",
+                "Are there any fees I need to pay during the issuance of a Transcript of Records process?",
+                "How much is the total cost associated with requesting a Transcript of Records?"
+            ],
+            "responses": [
+                "Here are the fees for requesting a Transcript of Records at BatStateU ARASOF-Nasugbu:\n\n- Certificate of Transfer Credentials - Php100\n- CertificationTranscript of Records - Php50/page"
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about the issuance of Transcript of Records process?"
+            ],
+            "responses": [
+                "For inquiries about the issuance of Transcript of Records, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding the process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for requesting Transfer Credentials?",
+                "What documents do I need to submit for the issuance of Transfer Credentials?",
+                "What requirements do I need to request Transfer Credentials?",
+                "What documents should I prepare to request Transfer Credentials?",
+                "What are the required documents for the process of requesting Transfer Credentials?"
+            ],
+            "responses": [
+                "To request Transfer Credentials at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Online Clearance: From the Registration Portal or Student Clearance System.\n2. Request and Claim Slip (1 Original): From the Registration Services Office or downloadable from the Student Portal at https://dione.batstate-u.edu.ph/student/#/dashboard.\n3. One (1) Valid Identification Card (ID) - PRC ID, Driver\u2019s License, UMID, Passport\n4. Official Receipt of Payment: From the Cashiering Office\n5. Exit Interview Form (1 clear copy): From Concerned College/Guidance and Counseling Office\n6. Request Letter from the school for lost issued Certificate of Transfer Credential. (If applicable): From Receiving School\n7. Affidavit of Loss stating the issuance of certificate and non-submission to any school (if applicable): From Notary Public\n\nConditional Requirement: In case, the student cannot personally process:\n - Authorization letter stating the processes to be undertaken by the representative (1 Original)\n - Clear photocopy of student ID (1 copy) and any valid ID of the representative (1 copy), with three (3) specimen signatures"
+            ]
+        },
+        {
+            "patterns": [
+                "How do I request Transfer Credentials?",
+                "What are the steps to request Transfer Credentials?",
+                "What is the Transfer Credentials issuance process?",
+                "How do I complete my request for Transfer Credentials?",
+                "What is the process to request Transfer Credentials?"
+            ],
+            "responses": [
+                "To complete the process of requesting Transfer Credentials at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Request the document \n - Thru Online Document Request (ODR)- Access the Online Document Request System at https://dione.batstateu.edu.ph/odr/#/ and accomplish the steps for document requisition\n- Thru email \u2013 Send a message via email at registrar.nasugbu@g.batstate-u.edu.ph\n- Thru Face-to-Face Transaction - Secure Request and Claim Slip Form at the Registration Services Office\n2. Pay at the Cashiering Office/LinkBiz Portal\n3. Upload via ODR or Present the official receipt at the Registration Services Office\n4. Present the notice/ Claim Slip to claim the requested document\n5. Check and receive the requested document and sign in the Logbook "
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the process to request Transfer Credentials?",
+                "What is the duration of the process to request Transfer Credentials?",
+                "How long does the entire process take to request Transfer Credentials?",
+                "How long will it take to complete all the steps to request Transfer Credentials?",
+                "What is the duration of the entire process to request Transfer Credentials?"
+            ],
+            "responses": [
+                "The process for requesting Transfer Credentials typically takes about 3 days for Auto TOR and 7 days for Manual TOR"
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for requesting Transfer Credentials?",
+                "How much does the issuance of Transfer Credentials process cost?",
+                "How much are the fees for the entire issuance of Transfer Credentials process?",
+                "Are there any fees I need to pay during the issuance of Transfer Credentials process?",
+                "How much is the total cost associated with requesting Transfer Credentials?"
+            ],
+            "responses": [
+                "Here are the fees for requesting Transfer Credentials at BatStateU ARASOF-Nasugbu:\n\n- Certificate of Transfer Credentials - Php 100\n- Certification Transcript of Records - Php50/page"
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about the issuance of Transfer Credentials process?",
+                "Who should I reach out to for questions about the issuance of Transfer Credentials process?",
+                "Who do I reach out to for questions regarding the issuance of Transfer Credentials?",
+                "How can I contact the Registrar's Office for questions regarding the issuance of Transfer Credentials?",
+                "What is the contact information of the Registrar's Office for inquiries related to the issuance of Transfer Credentials?"
+            ],
+            "responses": [
+                "For inquiries about the issuance of Transfer Credentials, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding the process."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the requirements for requesting Student Verification?",
+                "What documents do I need to submit for Student Verification?",
+                "What requirements do I need to request Student Verification?",
+                "What documents should I prepare to request Student Verification?",
+                "What are the required documents for the process of requesting Student Verification?"
+            ],
+            "responses": [
+                "To request for student verification at BatStateU ARASOF-Nasugbu, please prepare the following documents:\n\n1. Letter of Authorization/ Letter of Consent of Concerned Student/Graduate: From the Requesting Company/ Agency\n2. Scanned copy of valid ID of the concerned student: From the Requesting Company/ Agency\n3. Scanned Copy of Transcript of Records/Diploma: From the Requesting Company/ Agency\n4. Student Verification Form : From the Requesting Company/ Agency\n"
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Letter of Authorization / Consent for student verification?",
+                "Where can I request the Letter of Authorization / Consent for student verification?",
+                "Where can I obtain the Letter of Authorization / Consent for student verification?"
+            ],
+            "responses": [
+                "You can obtain the Letter of Authorization / Consent from the Requesting Company / Agency."
+            ]
+        },
+        {
+            "patterns": [
+                "Where can I get the Student Verification Form for student verification?",
+                "Where can I request the Student Verification Form for student verification?",
+                "Where can I obtain the Student Verification Form for student verification?"
+            ],
+            "responses": [
+                "You can obtain your Student Vertification Form from the Requesting Company / Agency."
+            ]
+        },
+        {
+            "patterns": [
+                "How do I request student verification?",
+                "What are the steps for requesting student verification?",
+                "What is the student verification process?",
+                "How do I complete my request for student verification?",
+                "What is the process for requesting student verification?"
+            ],
+            "responses": [
+                "To request student verification at BatStateU ARASOF-Nasugbu, please follow these steps:\n\n1. Send request for student verification with complete requirements via email to the Registration Services Office.\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n2. Receive the response for student verification Department/Program Chair and the Dean\n"
+            ]
+        },
+        {
+            "patterns": [
+                "How long is the student verification process?",
+                "What is the duration of the student verification process?",
+                "How long does the entire student verification process take?",
+                "How long will it take to complete all the steps for requesting student verification?",
+                "What is the duration of the entire student verification process?"
+            ],
+            "responses": [
+                "The process for student verification typically takes about 1 day to complete."
+            ]
+        },
+        {
+            "patterns": [
+                "Is there a fee for the student verification process?",
+                "How much does the student verification process cost?",
+                "How much are the fees for the entire student verification process?",
+                "Are there any fees I need to pay during the student verification process?",
+                "How much is the total cost associated with student verification process?"
+            ],
+            "responses": [
+                "There are no fees associated with the student verification process. The entire process is free of charge."
+            ]
+        },
+        {
+            "patterns": [
+                "Who can I contact for inquiries about the process of student verification?",
+                "Who should I reach out to about student verification?",
+                "Who do I reach out to for questions about student verification?",
+                "How can I contact the Registrar's Office for questions regarding student verification?",
+                "What is the contact information of the Registrar's Office for inquiries related to student verification?"
+            ],
+            "responses": [
+                "For inquiries about the process of student verification, you can contact the Registrar's Office. Here are the details:\n\nTelephone: (043) 416-0350 local 214\nEmail: registrar.nasugbu@g.batstate-u.edu.ph\n\nPlease feel free to reach out for any questions or assistance regarding the process."
+            ]
+        },
+        {
+            "patterns": [
+                "Where is BatStateU ARASOF-Nasugbu Campus located?"
+            ],
+            "responses": [
+                "The BatStateU ARASOF-Nasugbu Campus is located at R. Martinez St., Brgy. Bucana, Nasugbu, 4231 Batangas, Philippines."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the landmarks near the BatStateU ARASOF-Nasugbu Campus?"
+            ],
+            "responses": [
+                "Landmarks near the campus include the Globe Telecom Building and Kainan sa Dalampasigan Restaurant."
+            ]
+        },
+        {
+            "patterns": [
+                "How can I travel to BatStateU ARASOF-Nasugbu Campus?"
+            ],
+            "responses": [
+                "You can reach the campus through:\n\nPublic Transport: Take a bus from PITX, Coastal Road, or Pasay terminals in Manila heading to Nasugbu, Batangas. The buses will drop you close to the campus.\n\nBy Car: Drive via SLEX to Tagaytay City, then continue on the Tagaytay-Nasugbu Highway for a scenic two-hour trip to Nasugbu. Alternatively, take the Cavitex Highway, passing through the Mount Palay Palay tunnel to the Nasugbu-Ternate Highway, leading near the campus."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the size of the BatStateU ARASOF-Nasugbu Campus?"
+            ],
+            "responses": [
+                "The BatStateU ARASOF-Nasugbu Campus covers an area of 4.159 hectares, divided into two compounds."
+            ]
+        },
+        {
+            "patterns": [
+                "How is the BatStateU ARASOF-Nasugbu Campus divided?"
+            ],
+            "responses": [
+                "The BatStateU ARASOF-Nasugbu Campus is divided into two compounds. Area I is located adjacent to the shores of Nasugbu and houses the majority of the campus buildings, including the admin building, which is the oldest structure on campus. Area II is home to the Physical Education School Sports (PESS) Ground, also known as the Roxas-Gargollo Sports Field, which is used for sports events, PE subjects, and other outdoor activities."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the oldest building on the BatStateU ARASOF-Nasugbu Campus?"
+            ],
+            "responses": [
+                "The oldest building on the campus is the admin building, which dates back to the university's founding years. It is located in Area I, the part of the campus near the shores of Nasugbu."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the size of the Roxas-Gargollo Sports Field?"
+            ],
+            "responses": [
+                "The Roxas-Gargollo Sports Field (also known as the PESS Ground) covers an area of 1.6849 hectares."
+            ]
+        },
+        {
+            "patterns": [
+                "What facilities are located near the Roxas-Gargollo Sports Field?"
+            ],
+            "responses": [
+                "Near the Roxas-Gargollo Sports Field, you'll find the BatStateU Hostel, which serves as a function hall for local events, and the Higher Education Building, where classes for various college programs are held."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the history of BatStateU ARASOF-Nasugbu Campus?"
+            ],
+            "responses": [
+                "The history of BatStateU ARASOF-Nasugbu Campus dates back over 70 years. It was established by Republic Act 685, passed in 1952 through the efforts of Congressman Apolinario Reyes Apacible and Bureau of Fisheries Director Deogracias V. Villadolid. Initially called the Philippine Institute of Fisheries Technology, the school started operating in 1957 under the name Batangas School of Fisheries (BSF), with a two-story building constructed on a three-hectare land donated by Roxas y Cia.\n\nThrough the years, the school expanded its academic offerings, starting with a secondary fisheries curriculum. In 1972, it began offering a Diploma in Fishery Technology, followed by a Bachelor of Science in Fishery Education in the late 1970s.\n\nIn the 1980s, the school was renamed Apolinario R. Apacible School of Fisheries (ARASOF) and started offering elementary education, non-traditional courses, and short-term programs. By 1994, ARASOF was placed under the Commission on Higher Education (CHED), enabling the introduction of more programs such as Bachelor of Science in Food Technology, Hotel and Restaurant Management, and Education.\n\nIn 2000, ARASOF became part of Batangas State University (BatStateU) through the integration of the Pablo Borbon Memorial Institute of Technology, with ARASOF becoming one of the university's campuses. This transition led to the creation of BatStateU ARASOF-Nasugbu Campus under Republic Act 9045 in 2001.\n\nToday, BatStateU ARASOF-Nasugbu continues to grow, offering a range of multidisciplinary programs. The campus is home to over 7,000 students, with six colleges and a laboratory school, continuing its mission of academic excellence and contributing to the local community and region."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the academic departments at BatStateU ARASOF-Nasugbu Campus?"
+            ],
+            "responses": [
+                "The academic departments at BatStateU ARASOF-Nasugbu Campus are:\n\n1. College of Accountancy, Business, Economics and International Hospitality Management\n2. College of Arts and Sciences\n3. College of Informatics and Computing Sciences\n4. College of Engineering and Technology\n5. College of Nursing and Allied Health Sciences\n6. College of Teacher Education\n7. Laboratory School"
+            ]
+        },
+        {
+            "patterns": [
+                "What is CABEIHM?"
+            ],
+            "responses": [
+                "CABEIHM stands for the College of Accountancy, Business, Economics, and International Hospitality Management at BatStateU ARASOF-Nasugbu. It offers a wide range of nationally accredited graduate and undergraduate programs in business, hospitality, economics, and public administration."
+            ]
+        },
+        {
+            "patterns": [
+                "What programs are offered by CABEIHM at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "CABEIHM offers the following programs:\n\n- Bachelor of Science in Accountancy\n- Bachelor of Science in Management Accounting\n- Bachelor of Science in Business Administration major in Financial Management\n- Bachelor of Science in Business Administration major in Marketing Management\n- Bachelor of Science in Business Administration major in Human Resource Management\n- Bachelor of Science in Hospitality Management\n- Bachelor of Science in Tourism Management"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of CABEIHM?"
+            ],
+            "responses": [
+                "The Dean of CABEIHM is Assoc. Prof. Mayette A. Cananea."
+            ]
+        },
+        {
+            "patterns": [
+                "How can I contact CABEIHM?"
+            ],
+            "responses": [
+                "You can contact CABEIHM via the following:\n\nTelephone: (043) 416-0350 loc. 204\nEmail: cabeihm.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who are the program chairpersons at CABEIHM?"
+            ],
+            "responses": [
+                "The program chairpersons at CABEIHM are:\n\n- Ms. Carla M. Sandoval (OIC-Department Chairperson, BSA & BSMA)\n- Ms. Leila T. Bayot (Program Chairperson, BSHM)\n- Asst. Prof. Arlene M. Mendoza (Program Chairperson, BSTM)\n- Ms. Marilyn P. Tampes (Program Chairperson, BSBA MM)\n- Ms. Dyemnah Inasiah P. Bentir (Program Chairperson, BSBA HRM & FM)"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the goal of CABEIHM?"
+            ],
+            "responses": [
+                "The CABEIHM aims to provide quality education to prepare students for a wide range of careers in accountancy, business, hotel and restaurant management, tourism management, custom and public administration, aspire for continuing education, enhance competencies and hone their leadership skills to enable them to participate actively in the global market through high quality instruction, research, extension and production which serve as fertile ground for the internalization of values that uplift self, society and the environment."
+            ]
+        },
+        {
+            "patterns": [
+                "What degrees can I pursue at CABEIHM?"
+            ],
+            "responses": [
+                "At CABEIHM, you can pursue the following degrees:\n\n- Bachelor of Science in Accountancy\n- Bachelor of Science in Management Accounting\n- Bachelor of Science in Business Administration (with majors in Financial Management, Marketing Management, or Human Resource Management)\n- Bachelor of Science in Hospitality Management\n- Bachelor of Science in Tourism Management"
+            ]
+        },
+        {
+            "patterns": [
+                "What is CAS?"
+            ],
+            "responses": [
+                "CAS stands for the College of Arts and Sciences at BatStateU ARASOF-Nasugbu. It focuses on providing exemplary leadership in the education of professionals in the arts and sciences."
+            ]
+        },
+        {
+            "patterns": [
+                "What programs are offered by CAS at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "CAS offers the following programs:\n\n- Bachelor of Arts in Communication\n- Bachelor of Science in Criminology\n- Bachelor of Science in Food Technology\n- Bachelor of Science in Psychology\n- Bachelor of Science in Fisheries and Aquatic Sciences"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of CAS?"
+            ],
+            "responses": [
+                "The Dean of CAS is Dr. Maria Luisa A. Valdez."
+            ]
+        },
+        {
+            "patterns": [
+                "How can I contact CAS?"
+            ],
+            "responses": [
+                "You can contact CAS via the following:\n\nTelephone: (043) 416-0350 loc. 202\nEmail: cas.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who are the program chairpersons at CAS?"
+            ],
+            "responses": [
+                "The program chairpersons at CAS are:\n\n- Mr. Robert Marrel V. Dela Vega (Program Chair, BA Communication)\n- Ms. Elsie I. Montealegre (OIC-Program Chair, BS Criminology)\n- Mr. Christopher A. Fernandez (OIC-Program Chair, BS Fisheries and Aquatic Sciences)\n- Mr. Ronie G. Baclas (OIC-Program Chair, BS Food Technology)\n- Mr. Mariel June A. Magsino (OIC-Program Chair, BS Psychology)"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the goal of CAS?"
+            ],
+            "responses": [
+                "The CAS aims to provide exemplary leadership essential to the education of proficient and humane professionals in the arts and sciences."
+            ]
+        },
+        {
+            "patterns": [
+                "What degrees can I pursue at CAS?"
+            ],
+            "responses": [
+                "At CAS, you can pursue the following degrees:\n\n- Bachelor of Arts in Communication\n- Bachelor of Science in Criminology\n- Bachelor of Science in Food Technology\n- Bachelor of Science in Psychology\n- Bachelor of Science in Fisheries and Aquatic Sciences"
+            ]
+        },
+        {
+            "patterns": [
+                "What is CICS?"
+            ],
+            "responses": [
+                "CICS stands for the College of Engineering and Computing Sciences at BatStateU ARASOF-Nasugbu. It offers programs in Information Technology and Computer Science, focusing on developing globally competitive professionals equipped with quality education and practical training in the fields of IT and computing."
+            ]
+        },
+        {
+            "patterns": [
+                "What programs are offered by CICS at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "CICS offers the following program:\n\nBachelor of Science in Information Technology (with two tracks: Network Technology and Business Analytics)"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of CICS?"
+            ],
+            "responses": [
+                "The Dean of CICS is Dr. Lorissa Joana E. Buenas."
+            ]
+        },
+        {
+            "patterns": [
+                "How can I contact CICS?"
+            ],
+            "responses": [
+                "You can contact CICS via the following:\n\nTelephone: (043) 416-0350 loc. 207\nEmail: cics.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Department Chair for ITE Programs at CICS?"
+            ],
+            "responses": [
+                "The Department Chair for ITE Programs is Asst. Prof. Benjie R. Samonte."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the goal of CICS?"
+            ],
+            "responses": [
+                "CICS aims to develop a highly dynamic, righteous, and competent pool of professionals equipped with quality education and practical training, committed to innovation, nation-building, and responding to the needs of society and the world."
+            ]
+        },
+        {
+            "patterns": [
+                "What degrees can I pursue at CICS?"
+            ],
+            "responses": [
+                "At CICS, you can pursue the following degrees:\n\n- Bachelor of Science in Information Technology"
+            ]
+        },
+        {
+            "patterns": [
+                "What is CET?"
+            ],
+            "responses": [
+                "CET stands for the College of Engineering and Technology at BatStateU ARASOF-Nasugbu. It offers programs in Computer Engineering and Industrial Technology, aiming to develop globally competitive graduates who meet local, national, and international demands for skilled professionals in the engineering and technology fields."
+            ]
+        },
+        {
+            "patterns": [
+                "What programs are offered by CET at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "CET offers the following programs:\n\n- Bachelor of Science in Computer Engineering\n- Bachelor of Industrial Technology Major in Electrical Technology"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of CET?"
+            ],
+            "responses": [
+                "The Dean of CET is Dr. Froilan G. Destreza."
+            ]
+        },
+        {
+            "patterns": [
+                "How can I contact CET?"
+            ],
+            "responses": [
+                "You can contact CET via the following:\n\nTelephone: (043) 416-0350 loc. 210\nEmail: ce.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Department Chair for CET at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The OIC-CET Department Chair is Engr. Romeo A. Concepcion Jr."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the goal of CET?"
+            ],
+            "responses": [
+                "CET aims to develop a well-rounded graduate imbued with moral and ethical values, spiritual vigor, and utmost concern for the environment as integral parts of the furtherance of a chosen profession, and produce well-rounded and globally competitive individuals who meet local, national and international demands for skilled workers."
+            ]
+        },
+        {
+            "patterns": [
+                "What degrees can I pursue at CET?"
+            ],
+            "responses": [
+                "At CET, you can pursue the following degrees:\n\n- Bachelor of Science in Computer Engineering\n- Bachelor of Industrial Technology Major in Electrical Technology\n"
+            ]
+        },
+        {
+            "patterns": [
+                "What is CONAHS?"
+            ],
+            "responses": [
+                "CONAHS stands for the College of Nursing and Allied Health Sciences at BatStateU ARASOF-Nasugbu. It provides high-quality education in nursing, nutrition and dietetics, and public health, preparing students for leadership roles in healthcare and equipping them with practical skills to serve communities and improve population health."
+            ]
+        },
+        {
+            "patterns": [
+                "What programs are offered by CONAHS at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "CONAHS offers the following programs:\n\n- Bachelor of Science in Nursing\n- Bachelor of Science in Nutrition and Dietetics\n- Bachelor of Science in Public Health (Major in Disaster Response)"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of CONAHS?"
+            ],
+            "responses": [
+                "The Dean of CONAHS is Asst. Prof. Renalyn D. Malabanan."
+            ]
+        },
+        {
+            "patterns": [
+                "How can I contact CONAHS?"
+            ],
+            "responses": [
+                "You can contact CONAHS via the following:\n\nTelephone: (043) 416-0350 loc. 209\nMobile: +63 919 672 2322\nEmail: conahs.nasugbu@g.batstate-u.edu.ph\nFacebook page: https://www.facebook.com/conahs.batstateu.arasof"
+            ]
+        },
+        {
+            "patterns": [
+                "Who are the Program Chairs for CONAHS at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Program Chairs are:\n\n- BS in Nutrition and Dietetics: Asst. Prof. Rosalie R. Rojales\n- BS Nursing: Asst. Prof. Ronarica B. Diones"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the goal of CONAHS?"
+            ],
+            "responses": [
+                "CONAHS aims to provide high-quality education in healthcare professions, developing students with the necessary theoretical and clinical skills. It focuses on preparing students to serve communities through leadership in healthcare practices, research, and partnerships, emphasizing moral, cultural, and legal principles."
+            ]
+        },
+        {
+            "patterns": [
+                "What degrees can I pursue at CONAHS?"
+            ],
+            "responses": [
+                "At CONAHS, you can pursue the following degrees:\n\n- Bachelor of Science in Nursing\n- Bachelor of Science in Nutrition and Dietetics\n- Bachelor of Science in Public Health (Major in Disaster Response)"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the CTE?"
+            ],
+            "responses": [
+                "CTE is the College of Teacher Education at BatStateU ARASOF-Nasugbu, dedicated to preparing well-rounded educators who are equipped with technical, pedagogical, and research skills to meet the challenges of diverse educational settings. It focuses on developing competitive educators with 21st-century skills to drive positive social transformation."
+            ]
+        },
+        {
+            "patterns": [
+                "What programs are offered by CTE at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "CTE offers the following programs:\n\n- Bachelor of Elementary Education (BEEd)\n- Bachelor of Secondary Education major in English (BSEd English)\n- Bachelor of Secondary Education major in Mathematics (BSEd Math)\n- Bachelor of Secondary Education major in Sciences (BSEd Sciences)\n- Bachelor of Secondary Education major in Filipino (BSEd Filipino)\n- Bachelor of Secondary Education major in Social Studies (BSEd Social Studies)\n- Bachelor of Physical Education (BPEd)\n- Professional Teacher Education"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of CTE?"
+            ],
+            "responses": [
+                "The Dean of CTE is Dr. Anania B. Aquino."
+            ]
+        },
+        {
+            "patterns": [
+                "How can I contact CTE?"
+            ],
+            "responses": [
+                "You can contact CTE via the following:\n\nTelephone: (043) 416-0350 loc. 206\nMobile: +63 917 107 2200\nEmail: cte.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who are the program chairs for CTE at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Program Chairs are:\n\n- BEEd: Ms. Evangeline S. Barredo\n- BSEd English & Filipino: Asst. Prof. Japner Xavier L. Guevarra\n- BSEd Math & Sciences: Asst. Prof. Marilou A. Romarate\n- BPEd: Ms. Ria S. Tanglao"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the goal of CTE?"
+            ],
+            "responses": [
+                "CTE is committed to providing high-quality education that equips students to excel in specific fields of interest. It focuses on creating opportunities for personal and professional growth, fostering the development of 21st-century skills, and promoting lifelong learning among its graduates."
+            ]
+        },
+        {
+            "patterns": [
+                "What degrees can I pursue at CTE?"
+            ],
+            "responses": [
+                "At CTE, you can pursue the following degrees:\n\n- Bachelor of Elementary Education\n- Bachelor of Secondary Education (with majors in English, Mathematics, Sciences, Filipino, or Social Studies)\n- Bachelor of Physical Education\n- Professional Teacher Education"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the mission of the BatStateU Laboratory School?"
+            ],
+            "responses": [
+                "The mission of the BatStateU Laboratory School is to contribute to nation-building by instilling curiosity and a love for learning in every child, helping them progress into productive citizens of society."
+            ]
+        },
+        {
+            "patterns": [
+                "What education levels are offered at the BatStateU Laboratory School?"
+            ],
+            "responses": [
+                "The Laboratory School offers K-12 basic education, which includes Kindergarten 2, Elementary (Grade 1-6), Junior High School (Grade 7-10), and Senior High School (Grade 11-12)."
+            ]
+        },
+        {
+            "patterns": [
+                "What strand is offered under the Senior High School Academic Track?"
+            ],
+            "responses": [
+                "The Senior High School offers the Science, Technology, Engineering, and Mathematics (STEM) strand under the Academic Track."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the goals of the Kindergarten level at the Laboratory School?"
+            ],
+            "responses": [
+                "The Kindergarten level aims to equip learners with basic skills, promote social interaction, enhance concentration and confidence, and provide play-based learning experiences."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the goals of the Elementary level at the Laboratory School?"
+            ],
+            "responses": [
+                "The Elementary level aims to provide knowledge and skills in literacy, numeracy, science, technology, communication, and values formation."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the goals of the Junior Middle Program  at the Laboratory School?"
+            ],
+            "responses": [
+                "The Junior High School program aims to develop cognitive and psychomotor skills, technology ethics, communication skills, leadership, and spiritual formation."
+            ]
+        },
+        {
+            "patterns": [
+                "What are the goals of the Senior Middle Program  at the Laboratory School?"
+            ],
+            "responses": [
+                "The Senior High School program focuses on strengthening cognitive and psychomotor skills, technology ethics, research, communication, leadership, and values formation."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Principal of BatStateU Laboratory School?",
+                "Who is the Principal of Laboratory School at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Principal of BatStateU Laboratory School is Dr. Jose Alejandro R. Belen."
+            ]
+        },
+        {
+            "patterns": [
+                "How can I contact the Office of the Principal at BatStateU Laboratory School?"
+            ],
+            "responses": [
+                "You can contact the Office of the Principal via the following:\n\nTelephone: (043) 416-0350 loc. 211\nEmail: labschool.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Chairperson for the Elementary level at BatStateU Laboratory School?"
+            ],
+            "responses": [
+                "The Chairperson for the Elementary level at BatStateU Laboratory School is Asst. Prof. Lorna V. Dacillo."
+            ]
+        },
+        {
+            "patterns": [
+                "How can I contact the Elementary Chairperson at BatStateU Laboratory School?"
+            ],
+            "responses": [
+                "You can contact the Elementary Chairperson via the following:\nEmail: lorna.dacillo@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Chairperson for the High School level at BatStateU Laboratory School?"
+            ],
+            "responses": [
+                "The Chairperson for the High School level at BatStateU Laboratory School is Ms. Jingle G. Guevarra."
+            ]
+        },
+        {
+            "patterns": [
+                "How can I contact the High School Chairperson at BatStateU Laboratory School?"
+            ],
+            "responses": [
+                "You can contact the High School Chairperson via the following:\nEmail: jingle.guevarra@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the official email of BatStateU Laboratory School?"
+            ],
+            "responses": [
+                "The official email of BatStateU Laboratory School is labschool.nasugbu@g.batstate-u.edu.ph."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the official Facebook page of BatStateU Laboratory School?"
+            ],
+            "responses": [
+                "The official Facebook page of BatStateU Laboratory School is https://www.facebook.com/BatStateULabSchool."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Chancellor of BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Chancellor of BatStateU ARASOF-Nasugbu is Prof. Enrico M. Dalangin."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Internal Audit at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Internal Audit is Ms. Marilyn P. Tampes."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Quality Assurance Management at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Quality Assurance Management is Mr. Marvin C. Hernandez."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Sustainable Development at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Sustainable Development is Assoc. Prof. Lorenjane E. Balan."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Vice Chancellor for Academic Affairs at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Vice Chancellor for Academic Affairs is Dr. Lorissa Joana E. Buenas."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of the College of Accountancy, Business, Economics, and International Hospitality Management at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Dean of the College of Accountancy, Business, Economics, and International Hospitality Management is Assoc. Prof. Mayette A. Cananea."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Associate Dean of the College of Accountancy, Business, Economics, and International Hospitality Management at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Associate Dean of the College of Accountancy, Business, Economics, and International Hospitality Management is Mr. Marvin C. Hernandez."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of the College of Engineering and Technology at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Dean of the College of Engineering and Technology is Dr. Froilan G. Destreza."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of the College of Informatics and Computing Sciences at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Dean of the College of Informatics and Computing Sciences is Dr. Lorissa Joana E. Buenas."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of the College of Teacher Education at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Dean of the College of Teacher Education is Dr. Anania B. Aquino."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Associate Dean of the College of Teacher Education at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Associate Dean of the College of Teacher Education is Dr. Thessa H. Noche."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of the College of Arts and Sciences at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Dean of the College of Arts and Sciences is Dr. Maria Luisa A. Valdez."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Associate Dean of the College of Arts and Sciences at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Associate Dean of the College of Arts and Sciences is Mr. Jonas C. Villaveza."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Dean of the College of Nursing and Allied Health Sciences at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Dean of the College of Nursing and Allied Health Sciences is Asst. Prof. Renalyn D. Malabanan."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of General Education at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of General Education is Dr. Estilito J. Punongbayan."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of the Registration Services at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of the Registration Services is Mr. Erwin R. Abiad."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Health Services at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Health Services is Dr. Winnona Andrea Fatima P. Magahis."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of the Library at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of the Library is Ms. Ellaine G. Lid-Ayan."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Testing and Admission at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Testing and Admission is Ms. Analyn H. Venzon."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of On-the-Job Training at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of On-the-Job Training is Ms. Leila T. Bayot."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Adviser of Student Organization at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Adviser of Student Organization is Engr. Alfredo V. Atienza Jr."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Student Discipline at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Student Discipline is Asst. Prof. Cherry U. Banta."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Guidance and Counseling at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Guidance and Counseling is Ms. Analyn H. Venzon."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Scholarship and Financial Assistance at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Scholarship and Financial Assistance is Asst. Prof. Rosalie R. Rojales."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of the Sports Development Program at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of the Sports Development Program is Ms. Ria S. Tanglao."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Culture and Arts at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Culture and Arts is Ms. Maria Jessica P. De Guzman."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of the National Service Training Program (NSTP) at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of NSTP is Asst. Prof. Wilfredo U. Abellera."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Vice Chancellor for Research, Development, and Extension Services at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Vice Chancellor for Research, Development, and Extension Services is Prof. Froilan G. Destreza."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Research at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Research is Assoc. Prof. Carmina L. Caurez."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Extension Services at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Extension Services is Mr. Albert V. Paytaren."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Vice Chancellor for Administration and Finance at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Vice Chancellor for Administration and Finance is Assoc. Prof. Josephine D. Vergara."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Human Resource Management at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Human Resource Management is Ms. Aimee Roxanne U. Percano."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Procurement at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Procurement is Ms. Marife G. Galvezo."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Property and Supply at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Property and Supply is Ms. Maybelle R. De Las Alas."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Project and Facility Management at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Project and Facility Management is Arch. Lara Patricia E. Cabanillas."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Budget at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Budget is Ms. Eleonor T. La\u00f1a."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Accounting at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Accounting is Ms. Apple Kheer R. Chuidian."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Cashiering at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Cashiering is Ms. Anna Lisa B. Villapando."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of General Services at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of General Services is Ms. Ana Jean J. Maranan."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Records at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Records is Mr. Ebenezer Joshua S. Velasco."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Environmental Management Unit at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Environmental Management Unit is Mr. Juvenal R. Oriondo."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Disbursing Officer at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Disbursing Officer is Ms. Ellaine L. Guerrero."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Vice Chancellor for Development and External Affairs at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Vice Chancellor for Development and External Affairs is Assoc. Prof. Lorennjane E. Balan."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of ICT Services at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of ICT Services is Asst. Prof. Renz Mervin A. Salac."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Planning and Development at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Planning and Development is Mr. Ebenezer Joshua S. Velasco."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of External Affairs at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of External Affairs is Ms. Maria Mariel D. Perea."
+            ]
+        },
+        {
+            "patterns": [
+                "Who is the Head of Resource Generation at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The Head of Resource Generation is Ms. Monaliza C. Drio."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the contact number for BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The contact numbers for BatStateU ARASOF-Nasugbu are:\n\n- 416-0350\n- 416-0068"
+            ]
+        },
+        {
+            "patterns": [
+                "What is the local number for the Registrar\u2019s Office at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The local number for the Registrar\u2019s Office is 214."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the local number for the Library Services at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The local number for Library Services is 221."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the local number for the Testing and Admission Office at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The local number for the Testing and Admission Office is 216."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the local number for the Office of Guidance and Counseling at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The local number for the Office of Guidance and Counseling is 219."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the local number for the Human Resource Management Office at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The local number for the Human Resource Management Office is 402."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the local number for the Accounting Office at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The local number for the Accounting Office is 417."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the local number for the Cashiering Office at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The local number for the Cashiering Office is 416."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the local number for the External Affairs Office (For International Students and Alumni) at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The local number for the External Affairs Office is 504."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the local number for ICT Services at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The local number for ICT Services is 502."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the local number for Health Services at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The local number for Health Services is 215."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the local number for the Bids and Awards Committee at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The local number for the Bids and Awards Committee is 105."
+            ]
+        },
+        {
+            "patterns": [
+                "What is the email address for the Bids and Awards Committee at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The email address for the Bids and Awards Committee is:\n\nbids.awards.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "What are the contact numbers for different offices at BatStateU ARASOF-Nasugbu?"
+            ],
+            "responses": [
+                "The contact details for various offices at BatStateU ARASOF-Nasugbu are as follows:\n\nMain Contact Numbers:\n- 416-0350\n- 416-0068\n\nRegistrar\u2019s Office:\n- Local Number: 214\n\nLibrary Services:\n- Local Number: 221\n\nTesting and Admission Office:\n- Local Number: 216\n\nOffice of Guidance and Counseling:\n- Local Number: 219\n\nHuman Resource Management Office:\n- Local Number: 402\n\nAccounting Office:\n- Local Number: 417\n\nCashiering Office:\n- Local Number: 416\n\nExternal Affairs Office (For International Students and Alumni):\n- Local Number: 504\n\nICT Services:\n- Local Number: 502\n\nHealth Services:\n- Local Number: 215\n\nBids and Awards Committee:\n- Local Number: 105\n- Email: bids.awards.nasugbu@g.batstate-u.edu.ph"
+            ]
+        },
+        {
+            "patterns": [
+                "Hi!"
+            ],
+            "responses": [
+                "Hi! How can I help you today?"
+            ]
+        },
+        {
+            "patterns": [
+                "Hello!"
+            ],
+            "responses": [
+                "Hello! How can I assist you?"
+            ]
+        },
+        {
+            "patterns": [
+                "Hey there!"
+            ],
+            "responses": [
+                "Hey there! What can I do for you?"
+            ]
+        },
+        {
+            "patterns": [
+                "Good morning!"
+            ],
+            "responses": [
+                "Good morning! How\u2019s your day going?"
+            ]
+        },
+        {
+            "patterns": [
+                "Good afternoon!"
+            ],
+            "responses": [
+                "Good afternoon! How can I help?"
+            ]
+        },
+        {
+            "patterns": [
+                "Good evening!"
+            ],
+            "responses": [
+                "Good evening! What can I assist you with?"
+            ]
+        },
+        {
+            "patterns": [
+                "How\u2019s it going?"
+            ],
+            "responses": [
+                "I\u2019m doing well, thanks for asking! How can I assist you?"
+            ]
+        },
+        {
+            "patterns": [
+                "What\u2019s up?"
+            ],
+            "responses": [
+                "Not much, what\u2019s up with you?"
+            ]
+        },
+        {
+            "patterns": [
+                "Take care!"
+            ],
+            "responses": [
+                "Take care too! See you next time."
+            ]
+        },
+        {
+            "patterns": [
+                "Good night!"
+            ],
+            "responses": [
+                "Good night! Have a restful evening."
+            ]
+        },
+        {
+            "patterns": [
+                "Thanks for your help!"
+            ],
+            "responses": [
+                "Anytime! I\u2019m here for you. If you have more questions later, just pop back in!"
+            ]
+        },
+        {
+            "patterns": [
+                "Thanks so much!"
+            ],
+            "responses": [
+                "You\u2019re very welcome! Feel free to reach out anytime."
+            ]
+        },
+        {
+            "patterns": [
+                "Appreciate it!"
+            ],
+            "responses": [
+                "No problem! Happy to help whenever you need."
+            ]
+        },
+        {
+            "patterns": [
+                "That was helpful!"
+            ],
+            "responses": [
+                "Glad to hear it! Let me know if there\u2019s anything else I can do."
+            ]
+        },
+        {
+            "patterns": [
+                "Thanks a lot!"
+            ],
+            "responses": [
+                "My pleasure! I\u2019m here if you have more questions."
+            ]
+        },
+        {
+            "patterns": [
+                "Nice one!"
+            ],
+            "responses": [
+                "Glad I could help! Just reach out if you need more assistance."
+            ]
+        },
+        {
+            "patterns": [
+                "You\u2019ve been really helpful!"
+            ],
+            "responses": [
+                "Anytime! Don\u2019t hesitate to ask if anything else comes up."
+            ]
+        },
+        {
+            "patterns": [
+                "Good job!"
+            ],
+            "responses": [
+                "Awesome! Let me know if I can help with anything else."
+            ]
+        },
+        {
+            "patterns": [
+                "Thanks for answering my questions!"
+            ],
+            "responses": [
+                "Happy to help! Feel free to check in anytime."
+            ]
+        },
+        {
+            "patterns": [
+                "Nice, I got it!"
+            ],
+            "responses": [
+                "Perfect! If you need more info, just let me know."
+            ]
+        },
+        {
+            "patterns": [
+                "Bye for now!"
+            ],
+            "responses": [
+                "Bye! Have a fantastic day! Don\u2019t hesitate to reach out if you need anything!"
+            ]
+        },
+        {
+            "patterns": [
+                "See you later!"
+            ],
+            "responses": [
+                "Take care! I\u2019ll be here if you have more questions."
+            ]
+        },
+        {
+            "patterns": [
+                "Catch you next time!"
+            ],
+            "responses": [
+                "Anytime! Looking forward to helping you again."
+            ]
+        },
+        {
+            "patterns": [
+                "Later!"
+            ],
+            "responses": [
+                "Later! Feel free to come back if you have more questions."
+            ]
+        },
+        {
+            "patterns": [
+                "Talk soon!"
+            ],
+            "responses": [
+                "Definitely! I\u2019ll be here if you need any more info."
+            ]
+        },
+        {
+            "patterns": [
+                "Goodbye!"
+            ],
+            "responses": [
+                "Goodbye! Have a great day, and reach out whenever!"
+            ]
+        },
+        {
+            "patterns": [
+                "I\u2019m out!"
+            ],
+            "responses": [
+                "No problem! Take care, and come back if you need anything!"
+            ]
+        },
+        {
+            "patterns": [
+                "I\u2019ll be back if I need more help."
+            ],
+            "responses": [
+                "Sounds good! I\u2019m just a message away."
+            ]
+        },
+        {
+            "patterns": [
+                "Thanks and goodbye!"
+            ],
+            "responses": [
+                "You\u2019re welcome! Goodbye, and have a wonderful day!"
+            ]
+        },
+        {
+            "patterns": [
+                "Signing off for now!"
+            ],
+            "responses": [
+                "Got it! Just hop back in if you need more assistance."
+            ]
+        },
+        {
+            "patterns": [
+                "You\u2019re not helping me at all"
+            ],
+            "responses": [
+                "I\u2019m sorry to hear that! Let\u2019s try again\u2014I\u2019ll do my best to help."
+            ]
+        },
+        {
+            "patterns": [
+                "You don\u2019t understand what I\u2019m asking."
+            ],
+            "responses": [
+                "My apologies! Can you tell me a bit more? I want to get it right."
+            ]
+        },
+        {
+            "patterns": [
+                "This isn\u2019t making sense."
+            ],
+            "responses": [
+                "Got it, let\u2019s try a different way. I\u2019m here to help you understand."
+            ]
+        },
+        {
+            "patterns": [
+                "Why is this so hard to get an answer?"
+            ],
+            "responses": [
+                "I know, it can feel that way. Let\u2019s take it one step at a time."
+            ]
+        },
+        {
+            "patterns": [
+                "Nothing you\u2019re saying is helping."
+            ],
+            "responses": [
+                "I\u2019m sorry about that. Could you tell me exactly what you need, and I\u2019ll focus on that?"
+            ]
+        },
+        {
+            "patterns": [
+                "I feel like you\u2019re not listening to me."
+            ],
+            "responses": [
+                "I hear you. Let\u2019s go over it again to make sure I understand."
+            ]
+        },
+        {
+            "patterns": [
+                "I\u2019m getting nowhere with this."
+            ],
+            "responses": [
+                "I know it\u2019s frustrating! Let\u2019s try another way to solve it."
+            ]
+        },
+        {
+            "patterns": [
+                "This isn\u2019t what I need!"
+            ],
+            "responses": [
+                "I apologize. Let\u2019s try to find exactly what you\u2019re looking for."
+            ]
+        },
+        {
+            "patterns": [
+                "I don\u2019t get why this is so confusing."
+            ],
+            "responses": [
+                "I understand. Let\u2019s break it down together."
+            ]
+        },
+        {
+            "patterns": [
+                "I\u2019m still stuck!"
+            ],
+            "responses": [
+                "I\u2019m sorry you\u2019re stuck! Let\u2019s start from the beginning to make it easier."
+            ]
+        },
+        {
+            "patterns": [
+                "I\u2019ll just get help somewhere else."
+            ],
+            "responses": [
+                "I understand. If you need help later, I\u2019ll be here."
+            ]
+        },
+        {
+            "patterns": [
+                "You\u2019re not helping."
+            ],
+            "responses": [
+                "I\u2019m sorry it didn\u2019t work out. I\u2019ll be here if you\u2019d like to try again."
+            ]
+        },
+        {
+            "patterns": [
+                "This chat isn\u2019t getting me anywhere."
+            ],
+            "responses": [
+                "I understand, and I apologize. If you\u2019d like to give it another go, I\u2019m here."
+            ]
+        },
+        {
+            "patterns": [
+                "I\u2019m just going to find another way"
+            ],
+            "responses": [
+                "You\u2019re not giving me what I need, so goodbye."
+            ]
+        },
+        {
+            "patterns": [
+                "You\u2019re not giving me what I need"
+            ],
+            "responses": [
+                "Understood. I\u2019m here if you need me later."
+            ]
+        },
+        {
+            "patterns": [
+                "This isn\u2019t helpful; I\u2019m out."
+            ],
+            "responses": [
+                "I\u2019m sorry it\u2019s been frustrating. I\u2019m here anytime you need assistance."
+            ]
+        },
+        {
+            "patterns": [
+                "This is just a waste of my time."
+            ],
+            "responses": [
+                "I apologize for that. If you need help down the line, don\u2019t hesitate to reach out."
+            ]
+        },
+        {
+            "patterns": [
+                "I\u2019ll figure it out myself."
+            ],
+            "responses": [
+                "Got it. Feel free to return if you need help."
+            ]
+        },
+        {
+            "patterns": [
+                "This was pointless."
+            ],
+            "responses": [
+                "I understand, and I apologize for the experience. I\u2019m here if you change your mind."
+            ]
+        },
+        {
+            "patterns": [
+                "You\u2019re not helping at all."
+            ],
+            "responses": [
+                "I\u2019m sorry for that. Let me know if you\u2019d like to try again anytime."
             ]
         }
     ]
